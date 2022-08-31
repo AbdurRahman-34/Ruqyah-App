@@ -119,7 +119,7 @@ body{
   margin: 40px 0px 5px 0;
 }
 .controls i{
-  font-size: 20px;
+  font-size: 25px;
   user-select: none;
   background: linear-gradient(var(--pink) 0%, var(--violet)100%);
   background-clip: text;
